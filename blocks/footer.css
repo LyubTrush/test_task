@@ -1,0 +1,25 @@
+.footer {
+  width: 100%;
+  background-color: #e9ded4;
+  height: 210px;
+}
+
+.footer__text {
+  padding-top: 40px;
+  margin: 0 auto;
+  max-width: 1222px;
+  flex-shrink: 0;
+  color: #313131;
+  font-variant-numeric: lining-nums proportional-nums;
+  font-family: "Golos", Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 120%; /* 19.2px */
+}
+@media screen and (max-width: 1274px) {
+  footer {
+  width: 80%;
+  padding: 20px;
+  }
+}

@@ -1,0 +1,18 @@
+@import url(../vendor/normalize.css);
+
+@import url(../vendor/fonts/Merriweather-Light.css);
+@import url(../vendor/fonts/GolosTextRegular.css);
+
+@import url(../blocks/page.css);
+@import url(../blocks/content.css);
+@import url(../blocks/header.css);
+
+@import url(../blocks/lead.css);
+
+@import url(../blocks/descreiption.css);
+
+@import url(../blocks/stages.css);
+@import url(../blocks/participants.css);
+@import url(../blocks/wrapper.css);
+
+@import url(../blocks/footer.css);
